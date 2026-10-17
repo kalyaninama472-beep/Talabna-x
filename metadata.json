@@ -1,0 +1,6 @@
+{
+  "name": "Talabna X",
+  "description": "Cross-border parcel delivery and tracking from India to Kuwait with automated customs documentation, tax calculations, and proof-of-delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
